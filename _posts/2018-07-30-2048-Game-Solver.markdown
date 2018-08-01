@@ -1,0 +1,6 @@
+---
+layout: post
+---
+<img src="/images/fulls/01.png" class="fit image">
+Implement the standard 2048 game in Python with AI hint feature.Build a game tree search-based AI agent for 2048 game that achieves 70% win rate by implementing Minimax and Alpha-Beta pruning algorithm.Analyze the winning strategies for 2048 game and developed the components of heuristic function that guides the AI agent.
+<a href="https://github.com/panda-dai/2048">view source code</a>
